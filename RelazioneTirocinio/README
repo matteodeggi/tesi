@@ -1,0 +1,15 @@
+###
+
+Time series are of equal length.
+
+Datasets with ".meta." have their fields being:
+- (progressive) ID
+- stream name
+- stream ID within the cloud
+- channel name (it can be the same for more than one stream, unused for now) 
+- channel description (it can be the same for more than one stream, unused for now)
+- creation date
+- latitude (unused fo now)
+- longitude (unused for now)
+- CLASS LABEL
+- data points of the time series
